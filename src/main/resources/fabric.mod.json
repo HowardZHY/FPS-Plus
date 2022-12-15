@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fpsplus",
-  "version": "Ver-D-LF",
+  "version": "Ver-B-LF",
   "name": "FPSPlus",
   "description": "This mod boosts your FPS by changing math functions to be either faster or less intensive.",
   "authors": [
