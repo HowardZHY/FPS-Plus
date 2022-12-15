@@ -1,8 +1,9 @@
 # FPS-Plus
+Legacy fabric port of FPS Plus using mixin. Tested 1.3.2-1.12.2 with Optifine and other mods.
 
-## Original Post
+## See Original Post
 
-see https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290619-freeuse-no-permission-needed-fpsplus-1-5-2-1-7-10
+https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290619-freeuse-no-permission-needed-fpsplus-1-5-2-1-7-10
 
 ## License
 Copyright ©2013 abandenz
