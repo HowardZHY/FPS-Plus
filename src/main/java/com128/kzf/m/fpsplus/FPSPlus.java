@@ -8,6 +8,6 @@ public class FPSPlus implements ModInitializer {
         // This code runs as soon as Minecraft is in a mod-load-ready state.
         // However, some things (like resources) may still be uninitialized.
         // Proceed with mild caution.
-        System.out.println("[FPSPlus Ver-D] Rewriting cos & sin with LIBGDX in MathHelper");
+        System.out.println("[FPSPlus Ver-C] Patching MathHelper");
     }
 }
