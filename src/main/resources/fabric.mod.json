@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "fpsplus",
+  "version": "Ver-D-LF",
+  "name": "FPSPlus",
+  "description": "This mod boosts your FPS by changing math functions to be either faster or less intensive.",
+  "authors": [
+    "abandenz","HowardZHY"
+  ],
+  "contact": {
+    "homepage": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290619-freeuse-no-permission-needed-fpsplus-1-5-2-1-7-10",
+    "sources": "https://www.curseforge.com/minecraft/mc-mods/fpsplus-lagfixes/files"
+  },
+  "license": "https://www.minecraftforum.net/members/abandenz/posts",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com128.kzf.m.fpsplus.FPSPlus"
+    ]
+  },
+  "mixins": [
+    "fpsplus.mixins.json"
+  ],
+  "depends": {
+  }
+}
