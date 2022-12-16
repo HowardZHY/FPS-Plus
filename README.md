@@ -1,5 +1,5 @@
 # FPS-Plus
-Legacy fabric port of FPS Plus using mixin. Tested 1.3.2-1.12.2 with Optifine and other mods.
+Legacy fabric port of FPS Plus using mixin. Tested 1.3.2-1.13.2 with Optifine and other mods.
 
 This branch is based on Ver D, with LIBGDX algorithm.
 
